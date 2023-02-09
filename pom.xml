@@ -11,7 +11,7 @@
 	<groupId>com.jw.team</groupId>
 	<artifactId>Lookify</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>Lookify</name>
 	<description>Coding Dojo Assignment</description>
 	<properties>
