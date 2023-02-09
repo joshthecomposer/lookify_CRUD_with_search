@@ -25,7 +25,7 @@ public class SongController {
 	
 	@GetMapping("/")
 	public String index() {
-		return "index";
+		return "index.jsp";
 	}
 	
 	@GetMapping("/dashboard")
@@ -41,7 +41,7 @@ public class SongController {
 			Model m
 			) {
 		m.addAttribute("s", new Song());
-		return "create.jsp";
+		return "/create.jsp";
 	}
 	@PostMapping("/songs/new")
 	public String save(
