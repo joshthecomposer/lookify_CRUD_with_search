@@ -17,5 +17,5 @@ phases:
       - echo Build completed on `data`
 artifacts:
   files:
-    - target/*.war
+    - target/*.jar
   discard-paths: yes
