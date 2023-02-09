@@ -15,7 +15,7 @@
 	<name>Lookify</name>
 	<description>Coding Dojo Assignment</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		        <!-- DEPENDENCY FOR USING VALIDATION ANNOTATIONS -->
